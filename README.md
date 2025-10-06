@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Saksham Yadav (SkySaksham)</h1>
-<h3 align="center">🚀 I love building things from scratch — from math libraries to hackathon MVPs!</h3>
+<h3 align="center">🚀 I love building things from scratch from math libraries to hackathon MVPs!</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Working on: **Long Numeric Arithmetic** — a C++ library for handling massive integers and decimals with custom high-precision arithmetic.  
+- 🔭 Working on: **Long Numeric Arithmetic** , a C++ library for handling massive integers and decimals with custom high-precision arithmetic.  
 - 💻 Built an **Expression Evaluator** in Python that mimics calculator logic.  
 - 🚀 I enjoy building **Hackathon MVPs** and experimenting with “vibecode” projects — fun ideas that blend logic and creativity.  
 - 🌱 Always learning: algorithms, low-level computation, and full-stack development.  
@@ -56,13 +56,13 @@
 | 🔢 **Long Numeric Arithmetic** | C++ library for arbitrary-precision integers & decimals, implementing multiplication, factorials, and other operations manually. |
 | 🧮 **Expression Evaluator** | Python parser that computes arithmetic expressions (no `eval` used), mimicking calculator logic. |
 | 🎬 **CineBook** | Terminal-based movie booking system; being upgraded to a full-stack web app. |
-| ⚡ **SS2025 Project (Smart BU Hackathon)** | Government and pharmacy dashboard for **Sehat-Sathi** — built to manage healthcare data efficiently, track services, and streamline pharmacy operations. |
+| ⚡ **SS2025 Project (Smart BU Hackathon)** | Government and pharmacy dashboard for **Sehat-Sathi** built to manage healthcare data efficiently, track services, and streamline pharmacy operations. |
 
 ---
 
 ## 🧭 Hackathon & MVP Building
 
-💡 I love turning ideas into prototypes fast — especially in hackathons.  
+💡 I love turning ideas into prototypes fast especially in hackathons.  
 I’ve built chatbots, telemedicine apps, and AI-powered MVPs using:
 
 - **FastAPI** + **Gemini API** for smart backend logic  
@@ -104,5 +104,5 @@ I’ve built chatbots, telemedicine apps, and AI-powered MVPs using:
 ---
 
 <p align="center">
-Built with ❤️ by **Saksham** — always curious, always building.
+Built with ❤️ by **Saksham** always curious, always building.
 </p>
