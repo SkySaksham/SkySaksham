@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://via.placeholder.com/800x150.png?text=Hey+There!+I%27m+Saksham+Yadav+%28SkySaksham%29" alt="Banner" />
-</p>
-
+<h1 align="center">Hi 👋, I'm Saksham Yadav (SkySaksham)</h1>
 <h3 align="center">🚀 I love building things from scratch — from math libraries to hackathon MVPs!</h3>
 
 ---
@@ -19,7 +16,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-yadav-229149373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-yadav-229149373/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SkySaksham/)
 </p>
 
@@ -58,12 +55,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Demo / Screenshot |
-|:--|:--|:--|
-| 🔢 **Long Numeric Arithmetic** | C++ library for arbitrary-precision integers & decimals, implementing multiplication, factorials, and other operations manually. | ![Placeholder](https://via.placeholder.com/150) |
-| 🧮 **Expression Evaluator** | Python parser that computes arithmetic expressions (no `eval` used), mimicking calculator logic. | ![Placeholder](https://via.placeholder.com/150) |
-| 🎬 **CineBook** | Terminal-based movie booking system; being upgraded to a full-stack web app. | ![Placeholder](https://via.placeholder.com/150) |
-| ⚡ **SS2025 Project (Smart BU Hackathon)** | Government and pharmacy dashboard for **Sehat-Sathi**, built to manage healthcare data efficiently, track services, and streamline pharmacy operations. | ![Placeholder](https://via.placeholder.com/150) |
+| Project | Description |
+|:--|:--|
+| 🔢 **Long Numeric Arithmetic** | C++ library for arbitrary-precision integers & decimals, implementing multiplication, factorials, and other operations manually. |
+| 🧮 **Expression Evaluator** | Python parser that computes arithmetic expressions (no `eval` used), mimicking calculator logic. |
+| 🎬 **CineBook** | Terminal-based movie booking system; being upgraded to a full-stack web app. |
+| ⚡ **SS2025 Project (Smart BU Hackathon)** | Government and pharmacy dashboard for **Sehat-Sathi**, built to manage healthcare data efficiently, track services, and streamline pharmacy operations. |
 
 ---
 
