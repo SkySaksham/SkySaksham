@@ -7,7 +7,7 @@
 
 - 🔭 Working on: **Long Numeric Arithmetic** , a C++ library for handling massive integers and decimals with custom high-precision arithmetic.  
 - 💻 Built an **Expression Evaluator** in Python that mimics calculator logic.  
-- 🚀 I enjoy building **Hackathon MVPs** and experimenting with “vibecode” projects — fun ideas that blend logic and creativity.  
+- 🚀 I enjoy building **Hackathon MVPs** and experimenting with “vibecode” projects fun ideas that blend logic and creativity.  
 - 🌱 Always learning: algorithms, low-level computation, and full-stack development.  
 - ⚡ Tech I’ve worked with: **FastAPI**, **Gemini API**, **NoSQL**, **TypeScript**, **Tailwind CSS**, **Render**, **Railway**, **Git**, **Figma**, **Supabase**, **Flutter**, and **Dart**.  
 
