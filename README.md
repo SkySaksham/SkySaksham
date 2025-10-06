@@ -16,8 +16,12 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-yadav-229149373/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SkySaksham/)
+  <a href="https://www.linkedin.com/in/saksham-yadav-229149373/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/SkySaksham/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -79,28 +83,13 @@ I’ve built chatbots, telemedicine apps, and AI-powered MVPs using:
 
 ---
 
-## 🏆 Hackathon Achievements
+## 🗺️ Roadmap / Goals
 
-| Hackathon | Project | Rank |
-|-----------|--------|------|
-| Smart BU 2025 | Sehat-Sathi Dashboard | 61 / 415 |
-| Local Hack 2024 | Chatbot MVP | 2nd place |
-
----
-
-## 🌱 Currently Learning
-
-- Django full-stack development  
-- Advanced C++ algorithms  
-- AI & ML basics  
-
----
-
-## 😎 Fun Facts
-
-- I vibecode in hackathons 🎯  
-- Love building MVPs under tight deadlines ⏱  
-- Always curious about how things work under the hood 🛠  
+- ![Long Numeric Arithmetic](https://img.shields.io/badge/Long%20Numeric%20Arithmetic-40%25-blue)  
+- ![Learn Django](https://img.shields.io/badge/Learn%20Django-20%25-green)  
+- ![Learn Flask](https://img.shields.io/badge/Learn%20Flask-10%25-lightgrey)  
+- ![Learn FastAPI](https://img.shields.io/badge/Learn%20FastAPI-15%25-teal)  
+- ![LeetCode & CP](https://img.shields.io/badge/LeetCode%20%26%20CP-25%25-orange)
 
 ---
 
