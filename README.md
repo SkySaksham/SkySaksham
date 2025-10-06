@@ -1,15 +1,22 @@
 <h1 align="center">Hey 👋, I'm Saksham Yadav (SkySaksham)</h1>
-<h3 align="center">🚀 I love building things from scratch from math libraries to hackathon MVPs!</h3>
+<h3 align="center">🚀 I love building things from scratch — from math libraries to hackathon MVPs!</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Working on: **Long Numeric Arithmetic** — a C++ library for handling massive Integers and decimals with custom high-precision arithmetic.  
+- 🔭 Working on: **Long Numeric Arithmetic** — a C++ library for handling massive integers and decimals with custom high-precision arithmetic.  
 - 💻 Built an **Expression Evaluator** in Python that mimics calculator logic.  
-- 🚀 I enjoy building **Hackathon MVPs** and experimenting with “vibecode” projects fun ideas that blend logic and creativity.  
+- 🚀 I enjoy building **Hackathon MVPs** and experimenting with “vibecode” projects — fun ideas that blend logic and creativity.  
 - 🌱 Always learning: algorithms, low-level computation, and full-stack development.  
 - ⚡ Tech I’ve worked with: **FastAPI**, **Gemini API**, **NoSQL**, **TypeScript**, **Tailwind CSS**, **Render**, **Railway**, **Git**, **Figma**, **Supabase**, **Flutter**, and **Dart**.  
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-yadav-229149373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SkySaksham/)
 
 ---
 
@@ -49,7 +56,7 @@
 | 🔢 **Long Numeric Arithmetic** | C++ library for arbitrary-precision integers & decimals, implementing multiplication, factorials, and other operations manually. |
 | 🧮 **Expression Evaluator** | Python parser that computes arithmetic expressions (no `eval` used), mimicking calculator logic. |
 | 🎬 **CineBook** | Terminal-based movie booking system; being upgraded to a full-stack web app. |
-| ⚡ **SS2025 Project** | [Add short description here — tech, purpose, or goal of the project] |
+| ⚡ **SS2025 Project (Smart BU Hackathon)** | Government and pharmacy dashboard for **Sehat-Sathi** — built to manage healthcare data efficiently, track services, and streamline pharmacy operations. |
 
 ---
 
@@ -83,11 +90,10 @@ I’ve built chatbots, telemedicine apps, and AI-powered MVPs using:
 
 ## 🗺️ Roadmap / Goals
 
-- [ ] Finish **Long Numeric Arithmetic** library with full decimal & rational support  
-- [ ] Launch **CineBook Web App** with Flutter frontend & FastAPI backend  
-- [ ] Complete **SS2025 project** and document results  
-- [ ] Build 1 full-stack hackathon MVP every month  
-- [ ] Open-source a personal **FastAPI + Flutter template** for rapid prototyping  
+- [ ] Complete **Long Numeric Arithmetic** library  
+- [ ] Learn **Django** fully and make more projects  
+- [ ] LeetCode grind — improve problem-solving skills  
+- [ ] Participate in more hackathons  
 
 ---
 
