@@ -1,4 +1,7 @@
-<h1 align="center">Hey 👋, I'm Saksham Yadav (SkySaksham)</h1>
+<p align="center">
+  <img src="https://via.placeholder.com/800x150.png?text=Hey+There!+I%27m+Saksham+Yadav+%28SkySaksham%29" alt="Banner" />
+</p>
+
 <h3 align="center">🚀 I love building things from scratch — from math libraries to hackathon MVPs!</h3>
 
 ---
@@ -38,7 +41,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 💡 Explored / Used in Hackathons or Vibecoding
+### 💡 Explored / Hackathon Projects
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -55,12 +58,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|:--|:--|
-| 🔢 **Long Numeric Arithmetic** | C++ library for arbitrary-precision integers & decimals, implementing multiplication, factorials, and other operations manually. |
-| 🧮 **Expression Evaluator** | Python parser that computes arithmetic expressions (no `eval` used), mimicking calculator logic. |
-| 🎬 **CineBook** | Terminal-based movie booking system; being upgraded to a full-stack web app. |
-| ⚡ **SS2025 Project (Smart BU Hackathon)** | Government and pharmacy dashboard for **Sehat-Sathi**, built to manage healthcare data efficiently, track services, and streamline pharmacy operations. |
+| Project | Description | Demo / Screenshot |
+|:--|:--|:--|
+| 🔢 **Long Numeric Arithmetic** | C++ library for arbitrary-precision integers & decimals, implementing multiplication, factorials, and other operations manually. | ![Placeholder](https://via.placeholder.com/150) |
+| 🧮 **Expression Evaluator** | Python parser that computes arithmetic expressions (no `eval` used), mimicking calculator logic. | ![Placeholder](https://via.placeholder.com/150) |
+| 🎬 **CineBook** | Terminal-based movie booking system; being upgraded to a full-stack web app. | ![Placeholder](https://via.placeholder.com/150) |
+| ⚡ **SS2025 Project (Smart BU Hackathon)** | Government and pharmacy dashboard for **Sehat-Sathi**, built to manage healthcare data efficiently, track services, and streamline pharmacy operations. | ![Placeholder](https://via.placeholder.com/150) |
 
 ---
 
@@ -79,6 +82,31 @@ I’ve built chatbots, telemedicine apps, and AI-powered MVPs using:
 
 ---
 
+## 🏆 Hackathon Achievements
+
+| Hackathon | Project | Rank |
+|-----------|--------|------|
+| Smart BU 2025 | Sehat-Sathi Dashboard | 61 / 415 |
+| Local Hack 2024 | Chatbot MVP | 2nd place |
+
+---
+
+## 🌱 Currently Learning
+
+- Django full-stack development  
+- Advanced C++ algorithms  
+- AI & ML basics  
+
+---
+
+## 😎 Fun Facts
+
+- I vibecode in hackathons 🎯  
+- Love building MVPs under tight deadlines ⏱  
+- Always curious about how things work under the hood 🛠  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -89,15 +117,6 @@ I’ve built chatbots, telemedicine apps, and AI-powered MVPs using:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkySaksham&layout=compact&theme=radical" />
 </p>
-
----
-
-## 🗺️ Roadmap / Goals
-
-- [ ] Complete **Long Numeric Arithmetic** library  
-- [ ] Learn **Django** fully and make more projects  
-- [ ] LeetCode grind — improve problem-solving skills  
-- [ ] Participate in more hackathons  
 
 ---
 
