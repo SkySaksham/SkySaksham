@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Yadav (SkySaksham)</h1>
-<h3 align="center">🚀 I love building things from scratch — from math libraries to hackathon MVPs!</h3>
+<h3 align="center">🚀 I love building things from scratch from math libraries to hackathon MVPs!</h3>
 
 ---
 
@@ -62,15 +62,15 @@
 | Project | Description |
 |:--|:--|
 | 🔢 **Long Numeric Arithmetic** | C++ library for arbitrary-precision integers & decimals, implementing multiplication, factorials, and other operations manually. |
+| ⚡ **SS2025 Project (Smart BU Hackathon)** | Government and pharmacy dashboard for **Sehat-Sathi**, built to manage healthcare data efficiently, track services, and streamline pharmacy operations. |
 | 🧮 **Expression Evaluator** | Python parser that computes arithmetic expressions (no `eval` used), mimicking calculator logic. |
 | 🎬 **CineBook** | Terminal-based movie booking system; being upgraded to a full-stack web app. |
-| ⚡ **SS2025 Project (Smart BU Hackathon)** | Government and pharmacy dashboard for **Sehat-Sathi**, built to manage healthcare data efficiently, track services, and streamline pharmacy operations. |
 
 ---
 
 ## 🧭 Hackathon & MVP Building
 
-💡 I love turning ideas into prototypes fast — especially in hackathons.  
+💡 I love turning ideas into prototypes fast especially in hackathons.  
 I’ve built chatbots, telemedicine apps, and AI-powered MVPs using:
 
 - **FastAPI** + **Gemini API** for smart backend logic  
@@ -89,7 +89,7 @@ I’ve built chatbots, telemedicine apps, and AI-powered MVPs using:
 - ![Learn Django](https://img.shields.io/badge/Learn%20Django-0%25-green)  
 - ![Learn Flask](https://img.shields.io/badge/Learn%20Flask-0%25-lightgrey)  
 - ![Learn FastAPI](https://img.shields.io/badge/Learn%20FastAPI-0%25-teal)  
-- ![LeetCode & CP]
+- ![Competitive Programming & DSA](https://img.shields.io/badge/Competitive%20Programming%20%26%20DSA-informational?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ---
 
