@@ -86,10 +86,10 @@ I’ve built chatbots, telemedicine apps, and AI-powered MVPs using:
 ## 🗺️ Roadmap / Goals
 
 - ![Long Numeric Arithmetic](https://img.shields.io/badge/Long%20Numeric%20Arithmetic-40%25-blue)  
-- ![Learn Django](https://img.shields.io/badge/Learn%20Django-20%25-green)  
-- ![Learn Flask](https://img.shields.io/badge/Learn%20Flask-10%25-lightgrey)  
-- ![Learn FastAPI](https://img.shields.io/badge/Learn%20FastAPI-15%25-teal)  
-- ![LeetCode & CP](https://img.shields.io/badge/LeetCode%20%26%20CP-25%25-orange)
+- ![Learn Django](https://img.shields.io/badge/Learn%20Django-0%25-green)  
+- ![Learn Flask](https://img.shields.io/badge/Learn%20Flask-0%25-lightgrey)  
+- ![Learn FastAPI](https://img.shields.io/badge/Learn%20FastAPI-0%25-teal)  
+- ![LeetCode & CP]
 
 ---
 
