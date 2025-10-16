@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saksham Yadav (SkySaksham)</h1>
-<h3 align="center">🚀 I love building things from scratch from math libraries to hackathon MVPs!</h3>
+<h3 align="center">🚀 I build things from scratch—from math libraries to hackathon MVPs!</h3>
 
 ---
 
 ## 🧠 About Me
-
-- 🔭 Working on: **Long Numeric Arithmetic**, a C++ library for handling massive integers and decimals with custom high-precision arithmetic.  
-- 💻 Built an **Expression Evaluator** in Python that mimics calculator logic.  
-- 🚀 I enjoy building **Hackathon MVPs** and experimenting with “vibecode” projects fun ideas that blend logic and creativity.  
-- 🌱 Always learning: algorithms, low-level computation, and full-stack development.  
-- 🎯 Interests: AI, full-stack dev, problem-solving, and speedcoding.
+I'm Saksham Yadav, a first-year student:  
+- 🔭 **Currently Working on:** [**Long Numeric Arithmetic**](#) – a C++ library for massive integers and decimals with custom high-precision arithmetic.  
+- 💻 **Built:** [**Expression Evaluator**](#) in Python that mimics calculator logic.  
+- 🚀 I build **Hackathon MVPs** and “vibecode” projects—fun ideas blending logic and creativity.  
+- 🌱 **Learning:** algorithms, low-level computation, and full-stack development.  
+- 🎯 **Interests:** AI, full-stack dev, problem-solving, and speedcoding.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 🛠️ Tech Skills
 
-### 💪 Confident In
+### 💪 Confident
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -61,25 +61,23 @@
 
 | Project | Description |
 |:--|:--|
-| 🔢 **Long Numeric Arithmetic** | C++ library for arbitrary-precision integers & decimals, implementing multiplication, factorials, and other operations manually. |
-| ⚡ **SS2025 Project (Smart BU Hackathon)** | Government and pharmacy dashboard for **Sehat-Sathi**, built to manage healthcare data efficiently, track services, and streamline pharmacy operations. |
-| 🧮 **Expression Evaluator** | Python parser that computes arithmetic expressions (no `eval` used), mimicking calculator logic. |
-| 🎬 **CineBook** | Terminal-based movie booking system; being upgraded to a full-stack web app. |
+| 🔢 **[Long Numeric Arithmetic](#)** | C++ library for arbitrary-precision integers & decimals. Implements multiplication, factorials, and other operations manually. |
+| ⚡ **[SS2025 Hackathon: Sehat-Sathi](#)** | Built a government & pharmacy dashboard to manage healthcare data efficiently, track services, and streamline pharmacy operations. |
+| 🧮 **[Expression Evaluator](#)** | Python parser that computes arithmetic expressions safely (no `eval`), mimicking calculator logic. |
+| 🎬 **[CineBook](#)** | Terminal-based movie booking system; being upgraded to a full-stack web app. |
 
 ---
 
 ## 🧭 Hackathon & MVP Building
 
-💡 I love turning ideas into prototypes fast especially in hackathons.  
-I’ve built chatbots, telemedicine apps, and AI-powered MVPs using:
+💡 I turn ideas into prototypes fast. Some of my past work:  
+- **Backend:** FastAPI + Gemini API for smart logic  
+- **Full-stack Apps:** Flutter + Supabase for cross-platform apps  
+- **Hosting:** Render / Railway for rapid cloud deployment  
+- **Frontend:** TypeScript + Tailwind CSS for clean, responsive design  
+- **UI/UX:** Figma for fast wireframes  
 
-- **FastAPI** + **Gemini API** for smart backend logic  
-- **Flutter + Supabase** for full-stack cross-platform apps  
-- **Render / Railway** for rapid cloud hosting  
-- **Figma** for fast UI wireframes  
-- **TypeScript + Tailwind CSS** for sleek frontend design  
-
-🧠 Focused on *speed, simplicity, and real problem-solving.*
+*Focus: speed, simplicity, and real problem-solving.*
 
 ---
 
