@@ -100,17 +100,21 @@ Focus on speed, simplicity, and real problem-solving
 ## 📊 GitHub Stats & Visitors
 
 <p align="center">
+  <!-- GitHub stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SkySaksham&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SkySaksham&theme=radical" />
 </p>
 
 <p align="center">
+  <!-- Top languages -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkySaksham&layout=compact&theme=radical" />
+  <!-- Profile views -->
   <img width="48%" src="https://komarev.com/ghpvc/?username=SkySaksham&color=brightgreen&label=Profile+Views" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-snake-stats.herokuapp.com/?user=SkySaksham&theme=radical" />
+  <!-- Snake animation -->
+  <img width="80%" src="https://github-readme-snake-activity.herokuapp.com/?user=SkySaksham&theme=radical" />
 </p>
 
 ---
