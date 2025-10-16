@@ -109,6 +109,10 @@ Focus on speed, simplicity, and real problem-solving
   <img width="48%" src="https://komarev.com/ghpvc/?username=SkySaksham&color=brightgreen&label=Profile+Views" />
 </p>
 
+<p align="center">
+  <img width="80%" src="https://github-readme-snake-stats.herokuapp.com/?user=SkySaksham&theme=radical" />
+</p>
+
 ---
 
 ## ✨ Quote
