@@ -100,21 +100,21 @@ Focus on speed, simplicity, and real problem-solving
 ## 📊 GitHub Stats & Visitors
 
 <p align="center">
-  <!-- GitHub stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SkySaksham&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SkySaksham&theme=radical" />
 </p>
 
 <p align="center">
-  <!-- Top languages -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkySaksham&layout=compact&theme=radical" />
-  <!-- Profile views -->
   <img width="48%" src="https://komarev.com/ghpvc/?username=SkySaksham&color=brightgreen&label=Profile+Views" />
 </p>
 
+---
+
+## 🐍 GitHub Contribution Snake
+
 <p align="center">
-  <!-- Snake animation -->
-  <img width="80%" src="https://github-readme-snake-activity.herokuapp.com/?user=SkySaksham&theme=radical" />
+  <img src="https://raw.githubusercontent.com/SkySaksham/SkySaksham/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -128,3 +128,7 @@ Focus on speed, simplicity, and real problem-solving
 <p align="center">
 Built with ❤️ by **Saksham**, always curious, always building
 </p>
+
+---
+
+_Last updated on <!-- will be updated daily by workflow -->_
