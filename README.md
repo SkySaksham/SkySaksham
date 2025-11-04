@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saksham Yadav (SkySaksham)</h1>
+<h1 align="center">✨ Hi 👋, I'm Saksham Yadav (SkySaksham)</h1>
 <h3 align="center">🚀 I build things from scratch — from math libraries to hackathon MVPs!</h3>
 
 ---
@@ -6,14 +6,14 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="#" title="C++"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-  <a href="#" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="#" title="HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#" title="CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="#" title="Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="#" title="FastAPI"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-  <a href="#" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-0f0f0f?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0f0f0f?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/FastAPI-002b36?style=for-the-badge&logo=fastapi&logoColor=00d9a3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
 ---
@@ -21,12 +21,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SkySaksham&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SkySaksham&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SkySaksham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SkySaksham&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkySaksham&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkySaksham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SkySaksham/SkySaksham/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SkySaksham/SkySaksham/output/snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
@@ -42,5 +42,11 @@
 ## ✨ Quote
 
 <p align="center">
-  <em>"To build an apple pie from scratch, you must first create the universe." — Carl Sagan</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=%22To+build+an+apple+pie+from+scratch,+you+must+first+create+the+universe.%22+-+Carl+Sagan" alt="Typing Quote" />
+</p>
+
+---
+
+<p align="center">
+  <sub><em>Built with 💙 by Saksham — always curious, always building.</em></sub>
 </p>
