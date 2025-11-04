@@ -1,17 +1,17 @@
-<h1 align="center">✨ Hi 👋, I'm Saksham Yadav (SkySaksham)</h1>
-<h3 align="center">🚀 I build things from scratch — from math libraries to hackathon MVPs!</h3>
+<h1 align="center"> Hi , I'm Saksham Yadav (SkySaksham)</h1>
+<h3 align="center"> I build things from scratch from math libraries to hackathon MVPs!</h3>
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-### 💪 Strong In
+###  Strong In
 <p align="center">
   <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
 </p>
 
-### ⚡ Explored / Used in Projects
+###  Explored / Used in Projects
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
