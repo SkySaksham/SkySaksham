@@ -3,16 +3,21 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
+### 💪 Strong In
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-0f0f0f?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0f0f0f?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/FastAPI-002b36?style=for-the-badge&logo=fastapi&logoColor=00d9a3" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
+</p>
+
+### ⚡ Explored / Used in Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00d9a3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
@@ -42,7 +47,7 @@
 ## ✨ Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=%22To+build+an+apple+pie+from+scratch,+you+must+first+create+the+universe.%22+-+Carl+Sagan" alt="Typing Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=%22To+build+an+apple+pie+from+scratch,+you+must+first+create+the+universe.%22+-+Carl+Sagan" alt="Typing Quote" />
 </p>
 
 ---
