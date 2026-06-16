@@ -1,57 +1,77 @@
-<h1 align="center"> Hi , I'm Saksham Yadav (SkySaksham)</h1>
-<h3 align="center"> I build things from scratch from math libraries to hackathon MVPs!</h3>
+<h1 align="center">
+  Hi 👋, I'm Saksham Yadav
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Idk+what;Full-Stack+Web+Developer+(Hopefully);Python+%7C+React+%7C+FastAPI;Always+forgetting+something+new" />
+</p>
+
+
 
 ---
 
-##  Tech Stack
+## 🚀 Tech Stack
 
-###  Strong In
+### 💻 Languages
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql" />
 </p>
 
-###  Explored / Used in Projects
+### ⚛️ Frameworks & Libraries
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00d9a3" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://skillicons.dev/icons?i=react,flask,fastapi,tailwind" />
 </p>
 
----
-
-## 📊 GitHub Stats
+### 🗄️ Databases
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SkySaksham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SkySaksham&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkySaksham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
+### 🛠️ Tools & Workflow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SkySaksham/SkySaksham/output/snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,github" />
 </p>
 
 ---
 
-## ✨ Quote
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=%22To+build+an+apple+pie+from+scratch,+you+must+first+create+the+universe.%22+-+Carl+Sagan" alt="Typing Quote" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SkySaksham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SkySaksham&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SkySaksham/SkySaksham/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+
+
+## ✨ Favorite Quote
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=To+build+an+apple+pie+from+scratch,+you+must+first+create+the+universe.;—+Carl+Sagan" />
 </p>
 
 ---
 
 <p align="center">
-  <sub><em>Built with 💙 by Saksham — always curious, always building.</em></sub>
+  <img src="https://komarev.com/ghpvc/?username=SkySaksham&label=Profile+Views&color=58A6FF&style=flat" />
+</p>
+
+<p align="center">
+  <i>💙 Always Curious • Always Building • Always Learning</i>
 </p>
