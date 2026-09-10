@@ -26,6 +26,10 @@
 
 <img src="https://skillicons.dev/icons?i=git,vscode,github" />
 
+**Familiar With**
+
+`S3` · `Docker` · `Object Storage` · `WSL`
+
 ---
 
 ## Contribution Graph
@@ -45,4 +49,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SkySaksham&label=Profile+Views&color=58A6FF&style=flat" />
 </p>
-
